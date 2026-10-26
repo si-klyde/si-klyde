@@ -4,6 +4,11 @@ I build games, Android tools and AI dev tooling. Most of what I make starts with
 
 **Currently building:** nostalRE, an offline Ragnarok Online setup for PC and Android handhelds.
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/si-klyde/si-klyde/output/poring-dark.svg">
+  <img alt="A Poring hopping across my contribution graph, eating every active day" src="https://raw.githubusercontent.com/si-klyde/si-klyde/output/poring-light.svg">
+</picture>
+
 #### Projects
 
 | | |
