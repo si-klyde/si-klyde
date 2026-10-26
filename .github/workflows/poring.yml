@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
   push:
     branches: [main]
-    paths: [scripts/poring.py, .github/workflows/poring.yml]
+    paths: [scripts/poring.py, "assets/**", .github/workflows/poring.yml]
 
 permissions:
   contents: write
